@@ -1,0 +1,14 @@
+C:\Users\EspenLever\source\repos\CsharpProjects\DataTypeProject\bin\Debug\net8.0\DataTypeProject.exe
+C:\Users\EspenLever\source\repos\CsharpProjects\DataTypeProject\bin\Debug\net8.0\DataTypeProject.deps.json
+C:\Users\EspenLever\source\repos\CsharpProjects\DataTypeProject\bin\Debug\net8.0\DataTypeProject.runtimeconfig.json
+C:\Users\EspenLever\source\repos\CsharpProjects\DataTypeProject\bin\Debug\net8.0\DataTypeProject.dll
+C:\Users\EspenLever\source\repos\CsharpProjects\DataTypeProject\bin\Debug\net8.0\DataTypeProject.pdb
+C:\Users\EspenLever\source\repos\CsharpProjects\DataTypeProject\obj\Debug\net8.0\DataTypeProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EspenLever\source\repos\CsharpProjects\DataTypeProject\obj\Debug\net8.0\DataTypeProject.AssemblyInfoInputs.cache
+C:\Users\EspenLever\source\repos\CsharpProjects\DataTypeProject\obj\Debug\net8.0\DataTypeProject.AssemblyInfo.cs
+C:\Users\EspenLever\source\repos\CsharpProjects\DataTypeProject\obj\Debug\net8.0\DataTypeProject.csproj.CoreCompileInputs.cache
+C:\Users\EspenLever\source\repos\CsharpProjects\DataTypeProject\obj\Debug\net8.0\DataTypeProject.dll
+C:\Users\EspenLever\source\repos\CsharpProjects\DataTypeProject\obj\Debug\net8.0\refint\DataTypeProject.dll
+C:\Users\EspenLever\source\repos\CsharpProjects\DataTypeProject\obj\Debug\net8.0\DataTypeProject.pdb
+C:\Users\EspenLever\source\repos\CsharpProjects\DataTypeProject\obj\Debug\net8.0\DataTypeProject.genruntimeconfig.cache
+C:\Users\EspenLever\source\repos\CsharpProjects\DataTypeProject\obj\Debug\net8.0\ref\DataTypeProject.dll
