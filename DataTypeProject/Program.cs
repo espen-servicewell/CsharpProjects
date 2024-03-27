@@ -11,13 +11,21 @@ decimal newProfit = 63000000.0m;
 
 // Your logic here
 Console.WriteLine($"Dear {customerName},");
-Console.WriteLine($"As a customer of our {currentProduct} offering we are excited to tell you about a new financial product that would dramatically increase your return.\r\n");
-Console.WriteLine($"Currently, you own {currentShares:N} shares at a return of 12.75%.\r\n\r\nOur new product, Glorious Future offers a return of 13.13%.  Given your current volume, your potential profit would be ¤63,000,000.00.\r\n\r\nHere's a quick comparison:\r\n\r\nMagic Yield         12.75%   $55,000,000.00      \r\nGlorious Future     13.13%   $63,000,000.00");
+Console.WriteLine($"As a customer of our {currentProduct} offering we are excited to tell you about a new financial product that would dramatically increase your return.");
+Console.WriteLine($"Currently, you own {currentShares:N} shares at a return of {currentReturn:P2}.");
+Console.WriteLine($"Our new product, {newProduct} offers a return of {newReturn:P2}.  Given your current volume, your potential profit would be {newProfit:C}.\n");
 
-Console.WriteLine("Here's a quick comparison:\n");
+Console.WriteLine("Here's a quick comparison:");
 
 string comparisonMessage = "";
 
-// Your logic here
+comparisonMessage = currentProduct.PadRight(20);
+comparisonMessage += String.Format("{0:P}", currentReturn).PadRight(10);
+comparisonMessage += String.Format("{0:C}", currentProfit).PadRight(20);
+
+comparisonMessage += "\n";
+comparisonMessage += newProduct.PadRight(20);
+comparisonMessage += String.Format("{0:P}", newReturn).PadRight(10);
+comparisonMessage += String.Format("{0:C}", newProfit).PadRight(20);
 
 Console.WriteLine(comparisonMessage);
